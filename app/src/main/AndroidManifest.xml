@@ -3,6 +3,7 @@
     package="com.github.erguerra.serviceone">
 
     <uses-permission android:name="com.github.erguerra.permissions.SendStatistics" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
     <permission android:name="com.github.erguerra.permissions.SendStatistics" />
 
     <application
